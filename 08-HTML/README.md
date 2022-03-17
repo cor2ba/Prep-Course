@@ -314,7 +314,7 @@ Ahora que sabemos como *seleccionar* los elementos a los que queremos aplicar la
 
   #divId {}
 </style>
-```
+```   
 
 En el ejemplo de arriba vemos tres selectores. El primero es para el elemento `body`, el segundo para todos los elementos de la clase `divClass` y el tercero para el elemento que tenga el id: `divId`. Dentro de los `{}` vamos a escribir todas las reglas que queremos que se apliquen a esos elementos.
 
